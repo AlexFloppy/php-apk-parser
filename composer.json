@@ -1,0 +1,4 @@
+{
+    "name": "alexfloppy/php-apk-parser",
+    "description": "Fix for pakage tufanbarisyildirim/php-apk-parser for usage with php 7"
+}
